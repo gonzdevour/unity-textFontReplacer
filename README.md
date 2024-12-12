@@ -11,7 +11,7 @@ This is a Unity Editor script that can iterate through all the scenes in the Ass
 2. **TextMesh Pro**  
    Even if you only use Text (Legacy) objects, for script compatibility, make sure to install TextMesh Pro. You can add a TextMesh Pro Text object in the scene to trigger the installation panel, and click to install the TextMesh Pro Essentials.
 
-3. **Access the Sprite Splitter**  
+3. **Access the textFontReplacer**  
    From Unity's main menu, navigate to `Tools > Global Text Editor`.
 
 4. **Specify the Font and Line Spacing.**  
